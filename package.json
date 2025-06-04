@@ -1,0 +1,14 @@
+{
+  "name": "compound-interest-farming",
+  "version": "1.0.0",
+  "description": "A script for automating Compound interest farming and reinvestment",
+  "main": "compoundInterestFarming.js",
+  "scripts": {
+    "start": "node compoundInterestFarming.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-schedule": "^2.1.0",
+    "web3": "^1.10.0"
+  }
+}
